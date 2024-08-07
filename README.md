@@ -1,6 +1,6 @@
 # Vibe.fm
 
-An AI Powered Spotify Playlist creator that knows your library. Create Spotify playlists based on your current mood.
+AI-powered Spotify playlist creator that knows your library and current mood.
 
 ## Overview
 
