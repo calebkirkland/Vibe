@@ -1,10 +1,10 @@
-# Vibe
+# Vibe.fm
 
 An AI Powered Spotify Playlist creator that knows your library. Create Spotify playlists based on your current mood.
 
 ## Overview
 
-Vibe is a web application that leverages AI to generate personalized Spotify playlists based on your mood and libarary data. Connect your Spotify account, describe how you're feeling, and let vibe create the perfect playlist for you.
+Vibe.fm is a web application that leverages AI to generate personalized Spotify playlists based on your mood and libarary data. Connect your Spotify account, describe how you're feeling, and let vibe create the perfect playlist for you.
 
 ## Features
 
