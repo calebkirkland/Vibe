@@ -9,7 +9,7 @@ Vibe.fm is a web application that leverages AI to generate personalized Spotify 
 ## Features
 
 - Spotify OAuth integration for secure account connection
-- AI-powered playlist generation using natural language prompts
+- Playlist generation using natural language prompts + your library.
 - AI that understands your music preferences.
 - Seamless playlist saving to your Spotify account
 
