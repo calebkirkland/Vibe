@@ -1,2 +1,38 @@
-# Vibe.fm
- Create personalized AI-generated Spofity playlists based on your current mood.
+# Vibe
+
+An AI Powered Spotify Playlist creator that knows your library. Create Spotify playlists based on your current mood.
+
+## Overview
+
+Vibe is a web application that leverages AI to generate personalized Spotify playlists based on your mood and libarary data. Connect your Spotify account, describe how you're feeling, and let vibe create the perfect playlist for you.
+
+## Features
+
+- Spotify OAuth integration for secure account connection
+- AI-powered playlist generation using natural language prompts
+- AI that understands your music preferences.
+- Seamless playlist saving to your Spotify account
+
+## Tech Stack
+
+- Frontend: React
+- Backend: Node.js with Express
+- Database: MongoDB
+- AI: OpenAI GPT-4
+- Authentication: Spotify OAuth
+
+## Getting Started
+
+1. Start MongoDB instance. 
+2. Clone the repository
+3. Set up the server:
+   - Navigate to the `server` folder
+   - Run `npm install`
+   - Create a `.env` file with necessary environment variables
+4. Set up the client:
+   - Navigate to the `client` folder
+   - Run `npm install`
+   - Create a `.env` file with `REACT_APP_API_URL`
+5. Start the server: `npm run dev` in the server folder
+6. Start the client: `npm start` in the client folder
+7. Open your browser and go to `http://localhost:3000`
