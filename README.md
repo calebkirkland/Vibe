@@ -18,7 +18,7 @@ Vibe.fm is a web application that leverages AI to generate personalized Spotify 
 - Frontend: React
 - Backend: Node.js with Express
 - Database: MongoDB
-- AI: OpenAI GPT-4
+- Model: GPT-4
 - Authentication: Spotify OAuth
 
 ## Getting Started
