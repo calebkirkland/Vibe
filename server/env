@@ -1,0 +1,8 @@
+PORT=5000
+MONGODB_URI=mongodb://localhost:27017/vibe
+SESSION_SECRET=your_session_secret
+SPOTIFY_CLIENT_ID=your_spotify_client_id
+SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+SPOTIFY_REDIRECT_URI=http://localhost:5000/api/auth/callback
+OPENAI_API_KEY=your_openai_api_key
+CLIENT_URL=http://localhost:3000

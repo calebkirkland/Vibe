@@ -1,2 +1,2 @@
-# vibe
- Create AI-generated Spofity pllaylists based on your current mood.
+# Vibe.fm
+ Create personalized AI-generated Spofity playlists based on your current mood.
