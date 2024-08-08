@@ -1,5 +1,4 @@
-
-![Screenshot 2024-08-08 165725](https://github.com/user-attachments/assets/2ea60a13-ab4f-43c5-a894-a14be4db5585)
+![Screenshot 2024-08-08 165840](https://github.com/user-attachments/assets/8b385958-5110-4430-9b7d-25701dda73ce)
 
 # Vibe.fm
 
