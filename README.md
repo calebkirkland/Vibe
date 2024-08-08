@@ -1,3 +1,6 @@
+
+![Screenshot 2024-08-08 165725](https://github.com/user-attachments/assets/2ea60a13-ab4f-43c5-a894-a14be4db5585)
+
 # Vibe.fm
 
 AI-powered Spotify playlist creator that knows your library and current mood.
